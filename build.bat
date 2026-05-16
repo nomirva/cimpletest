@@ -1,0 +1,1 @@
+zig cc ./example/example.c -o ./bin/tests.exe -Wall -Wextra -pedantic -std=c11
